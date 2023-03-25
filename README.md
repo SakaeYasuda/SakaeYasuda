@@ -1,12 +1,16 @@
-### Hello, I'm Sakae Yasuda 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakaeYasuda)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakaeYasuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Hello, I'm Sakae Yasuda (👋) a 20-year-old student currently in their 5th semester of the Computer Science program. With experience as a QA, I have transitioned to a FullStack developer role. With a strong passion for technology and programming, I'm constantly seeking opportunities to expand their knowledge and skills in the field.
+  </h3>
 <div>
   <a href="https://instagram.com/_sakaeyasuda_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ykaee" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-sakae-yasuda-b69a9b1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  <br><h2>Status</h2></br>
+  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakaeYasuda)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Linguagem que eu uso no  dia-a-dia
 
